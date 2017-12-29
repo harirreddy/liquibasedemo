@@ -7,7 +7,7 @@
         http://www.liquibase.org/xml/ns/dbchangelog-ext http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-ext.xsd">
 
     <preConditions>
-        <runningAs username="raviorcl"/>
+        <runningAs username="raviorc"/>
     </preConditions>
 
     <changeSet id="1" author="nvoxland">
